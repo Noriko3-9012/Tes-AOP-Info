@@ -1,0 +1,104 @@
+body {
+    height: 178vh;
+  background: linear-gradient(0deg, #4a99b1 0%, #35729b 100%);
+}
+
+img {
+    width: 55px;
+    margin-top: 20px;
+}
+.Dubeledubeledubeledubele {
+  justify-content: center;
+  vertical-align: center;
+  align-items: center;
+  display: flex;
+  gap: 15px;
+}
+.textguabungg {
+  justify-content: center;
+  display: flex;
+  color: white;
+  margin-top: 0px;
+}
+
+h1 {
+  text-align: center;
+  background: linear-gradient(to right, red, orange, yellow, green, blue, purple, darkred, darkorange);
+  background-size: 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: Merahputihteruslahkauberkibar 8s linear infinite;
+  text-shadow: 0 0 15px white;
+  margin-bottom: 0;
+}
+
+@keyframes Merahputihteruslahkauberkibar {
+  0% { background-position: 0%; }
+  100% { background-position: 200%; }
+}
+
+.Kartukusangatbaik {
+  width:250px;
+  aspect-ratio: 1 / 1;
+  object-fit:cover;
+  border-radius:8px;
+  display:block;
+  margin: 15px auto;
+}
+
+.Batasankulaut {
+  border: 0 solid rgba(0, 0, 0, 0.3);
+  border-radius: 8px; 
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.penyatuboss {
+  justify-content: center;
+  display: flex;
+  align-content: center;
+  gap: 15px;
+}
+
+.Dengarlahmusikku {
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  width: 255;
+}
+
+.Kartukusangatbaik2 {
+  width:250px;
+  aspect-ratio: 1 / 1;
+  object-fit:cover;
+  border-radius:8px;
+  display:block;
+  margin: 15px auto;
+  margin-right: 15px;
+  margin-left: 15px;
+  object-position: center 20%;
+}
+
+.Kolorku1 {
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.Kolorku2 {
+  color: rgb(235, 234, 234);
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.Kolorku3 {
+  color:rgb(255, 255, 255);
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.Kolorku4 {
+  color: rgb(235, 234, 234);
+  margin-top: 3px;
+  margin-bottom: 0px;
+}
+.Kolorku5 {
+  color: rgb(235, 234, 234);
+}
